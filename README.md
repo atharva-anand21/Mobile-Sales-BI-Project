@@ -8,4 +8,4 @@
 - Excel
 - DAX
 
-## Helpful dashboard for getting insights of sales.
+## Helpful dashboard for getting insights on sales.
